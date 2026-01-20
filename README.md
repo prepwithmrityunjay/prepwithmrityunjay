@@ -1,6 +1,6 @@
 
   <center>
-    <img src="profile.jpg" alt="Mrityunjay Profile Image" width="160" height="160">
+    <img src="IMG_20251214_215157.jpg" alt="Mrityunjay Profile Image" width="160" height="160">
     <h1>👋 Hi, I'm Mrityunjay!</h1>
     <h3>Full Stack Engineer • AI / ML Developer</h3>
   </center>
