@@ -1,12 +1,4 @@
-
   <center>
-    <image
-      src="IMG_20251214_215157.jpg"
-      width="220"
-      height="220"
-      clip-path="url(#circleClip)"
-      alt="Mrityunjay Profile Image"
-    />
   </svg>
     <h1>👋 Hi, I'm Mrityunjay!</h1>
     <h3>Full Stack Engineer • AI / ML Developer</h3>
