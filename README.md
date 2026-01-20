@@ -1,57 +1,67 @@
-<h1 align="center">Hi 👋, I'm Mrityunjay Dwivedi</h1>
+<h1 align="center">Hi 👋, I'm Karann Mishra</h1>
 
 <h3 align="center">
-Full Stack Engineer &nbsp;•&nbsp; AI / ML Engineer &nbsp;•&nbsp; Deep Learning & Systems Developer
+Full Stack Engineer &nbsp;•&nbsp; AI / ML Engineer &nbsp;•&nbsp; Data & Systems Builder
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrityunjaydwived&label=Profile%20Views&color=1f6feb&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Mrityunjaydwived?label=Followers&style=flat-square&color=1f6feb" />
+  <img src="https://komarev.com/ghpvc/?username=CodeSage4D&label=Profile%20Views&color=1f6feb&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/CodeSage4D?label=Followers&style=flat-square&color=1f6feb" />
   <img src="https://img.shields.io/badge/Open--Source-Contributor-success?style=flat-square" />
 </p>
 
 <p align="center">
-<strong>Building intelligent, scalable systems — from ML models to full-stack applications.</strong>
+<strong>Building intelligent systems — from UI to APIs to models.</strong>
 </p>
 👨‍💻 About Me
-I’m Mrityunjay Dwivedi, a Computer Science & Engineering undergraduate with strong experience in
-AI/ML, Deep Learning, and Full-Stack Web Development.
+I’m Karann Mishra, a Full Stack Engineer and AI/ML enthusiast who enjoys building
+end-to-end systems that combine software engineering with machine learning.
 
-I enjoy working on:
+I work comfortably across:
 
-real-world ML problems with measurable performance
+frontend & backend development
 
-full-stack applications using modern web technologies
+data pipelines & ML workflows
 
-end-to-end systems that combine AI + backend + frontend
+model integration into real applications
 
-My focus is on building production-ready, scalable, and reliable solutions.
+I care about clean architecture, reliable data, and production-ready solutions —
+not just experiments that live in notebooks.
 
-🧠 Engineering & ML Mindset
-Start with problem understanding, not tools
+🧠 Engineering Philosophy
+Design systems before writing code
 
-Focus on data preprocessing & augmentation
+Treat data pipelines as first-class citizens
 
-Optimize models using experiments, tuning & validation
+Prefer simple, explainable models before complex ones
 
-Design backend systems that securely serve ML logic
+Build ML that integrates smoothly into real products
 
-Write modular, maintainable, and testable code
+Write maintainable code that teams can actually extend
 
-🎯 Current Focus Areas
-Deep Learning (CNNs, PyTorch, TensorFlow)
+This allows me to ship solutions that work in production, not only demos.
 
-Machine Learning model optimization & evaluation
+🚀 What I’m Focused On
+Full-stack web applications with intelligent features
 
-Full-stack web applications (MERN stack)
+Applied Machine Learning & model fine-tuning
 
-Real-time systems (WebRTC, Socket.io)
+Data preprocessing & feature engineering
 
-Automation using Python & AI assistants
+REST APIs & backend services for ML systems
 
-Research-oriented ML projects
+Model evaluation, monitoring & performance analysis
 
-🛠️ Technical Skills
+Automation and reproducible workflows
+
+🛠️ Tech Stack
+💻 Full Stack Development
+
+
+
+
+
+
 🤖 AI / Machine Learning
 
 
@@ -59,11 +69,8 @@ Research-oriented ML projects
 
 
 
-💻 Full Stack Development
 
-
-
-
+📊 Data & Visualization
 
 
 
@@ -73,66 +80,33 @@ Research-oriented ML projects
 
 
 
+📂 Project Highlights
+Focused on real-world usability and clean structure
 
-📂 Featured Projects
-🧠 ISIC Melanoma Lesion Classification (Major Project)
-CNN-based deep learning model for skin cancer classification
+Full Stack Applications
+Frontend + backend systems with authentication, APIs, and integrations
 
-Implemented using PyTorch
+AI / ML Projects
+Data preprocessing → model training → evaluation → deployment-ready outputs
 
-Dataset: ISIC 2016
+Deep Learning Experiments
+Neural networks built in TensorFlow & PyTorch with performance comparison
 
-Techniques: data augmentation, hyperparameter tuning, early stopping
+Automation Tools
+Python scripts to simplify workflows and experiments
 
-Results:
+📜 Learning & Certifications
+Python for Data Science
 
-Train Accuracy: 97.9%
+Machine Learning Foundations
 
-Test Accuracy: 84.6%
+Data Analysis & Visualization
 
-Validation F1-Score: 0.7889
+Continuous learning through projects & research
 
-🔗 Repo: Malenoma_ISIC2018_ResNet18_Torch
-
-🤖 AI Assistant for Smart Automation
-Voice-based AI assistant for automation tasks
-
-Speech recognition + TTS using pyttsx3
-
-Command analysis using Google Generative AI (Gemini API)
-
-Built entirely in Python
-
-🔗 Repo: JARVIS-AI-ASSISTANCE
-
-📹 Video Conferencing Smart Web Application
-Full-stack real-time video conferencing platform
-
-Technologies: WebRTC, Node.js, Express, React, MongoDB
-
-Features: screen sharing, live chat, meeting scheduling
-
-Secure authentication using Firebase
-
-Real-time signaling via Socket.io
-
-🌱 Smart Ferro-Based Solar Irrigation System
-IoT-based intelligent irrigation system
-
-Ferrofluid-based soil moisture sensing
-
-MQTT protocol for real-time data transfer
-
-Firebase-connected dashboard for monitoring & control
-
-🏆 Achievements
-Top 5 in IIT Indore Inbound Examination & Interview
-
-Highest SGPA across 5 semesters
-
-Two times 9+ CGPA (9.29, 9.46)
-
-📈 GitHub Stats
-<p align="center"> <img src="https://ghchart.rshah.org/1f6feb/Mrityunjaydwived" /> </p>
-🤝 Let’s Connect
-<p align="center"> <a href="https://www.linkedin.com/in/mrityunjaydwivedi09" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Mrityunjaydwived" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Follow-000?style=flat&logo=github&logoColor=white"/> </a> <a href="mailto:dwivedibandhavesh@gmail.com"> <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat&logo=gmail&logoColor=white"/> </a> </p> <p align="center"> <em>“Engineering intelligence into systems that matter.”</em> </p> ```
+📈 GitHub Insights
+<p align="center"> <img src="https://ghchart.rshah.org/1f6feb/CodeSage4D" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeSage4D&theme=github" /> </p>
+🏆 Developer Badges
+<p align="center"> <img src="https://img.shields.io/badge/Full--Stack-Engineer-blue?style=flat" /> <img src="https://img.shields.io/badge/AI%2FML-Focused-8A2BE2?style=flat" /> <img src="https://img.shields.io/badge/Python-Power_User-blue?style=flat&logo=python" /> <img src="https://img.shields.io/badge/Continuous-Learner-orange?style=flat" /> </p>
+🤝 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/itsgkaranmishra4/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/CodeSage4D" target="_blank"> <img src="https://img.shields.io/badge/GitHub-Follow-000?style=flat&logo=github&logoColor=white"/> </a> <a href="mailto:karannmishra136@gmail.com"> <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat&logo=gmail&logoColor=white"/> </a> </p> <p align="center"> 🌐 <a href="https://itsgkaranmishra.web.app"><strong>Portfolio</strong></a> &nbsp;•&nbsp; 📄 <a href="https://drive.google.com/file/d/1fKE6ixBrHgSPX3hDZVEgxJC3i_UWT7ja/view"><strong>Resume</strong></a> </p> <p align="center"> <em>“Smart software is built where engineering meets intelligence.”</em> </p> ```
