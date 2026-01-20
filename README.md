@@ -1,71 +1,78 @@
 
+  <center>
+    <img src="profile.jpg" alt="Mrityunjay Profile Image" width="160" height="160">
+    <h1>👋 Hi, I'm Mrityunjay!</h1>
+    <h3>Full Stack Engineer • AI / ML Developer</h3>
+  </center>
 
-  <div class="container">
+  <hr>
 
-    <div class="profile">
-      <!-- Replace profile.jpg with your image -->
-      <img src="profile.jpg" alt="Mrityunjay Profile Photo">
-      <h1>👋 Hi, I'm Mrityunjay</h1>
-      <p class="highlight">Full Stack Engineer • AI / ML Developer</p>
-    </div>
+  <h2>💫 About Me</h2>
+  <p>
+    I’m a <b>Full Stack Engineer</b> and <b>AI/ML developer</b> who enjoys building
+    <b>end-to-end intelligent systems</b> — from deep learning models
+    to scalable, real-time web applications.
+  </p>
 
-    <h2>💫 About Me</h2>
-    <p>
-      I’m a <span class="highlight">Full Stack Engineer and AI/ML developer</span> who enjoys building
-      <span class="highlight">end-to-end intelligent systems</span> — from deep learning models
-      to scalable, real-time web applications.
-    </p>
+  <p>
+    I like working at the intersection of <b>machine learning</b>,
+    <b>backend systems</b>, and <b>user-facing applications</b>,
+    turning complex problems into practical, reliable solutions.
+  </p>
 
-    <p>
-      I like working at the intersection of <span class="highlight">machine learning</span>,
-      <span class="highlight">backend systems</span>, and
-      <span class="highlight">user-facing applications</span>,
-      turning complex problems into practical, reliable solutions.
-    </p>
+  <hr>
 
-    <h2>🔭 Currently Working On</h2>
-    <p>
-      A <span class="highlight">CNN-based Skin Cancer (Melanoma) Classification system</span>
-      using <span class="highlight">PyTorch</span>, focused on improving accuracy through
-      data augmentation, hyperparameter tuning, and model evaluation on the ISIC dataset.
-    </p>
+  <h2>🔭 Currently Working On</h2>
+  <p>
+    A <b>CNN-based Skin Cancer (Melanoma) Classification system</b>
+    using <b>PyTorch</b>, focused on improving accuracy through
+    data augmentation, hyperparameter tuning, and model evaluation
+    on the ISIC dataset.
+  </p>
 
-    <h2>🤝 Looking to Collaborate On</h2>
-    <ul>
-      <li>Open-source AI / ML projects</li>
-      <li>Full-stack applications integrating ML models</li>
-      <li>Real-time systems or automation tools using Python</li>
-    </ul>
+  <hr>
 
-    <h2>🙋 Looking for Help With</h2>
-    <ul>
-      <li>Improving deep learning model generalization</li>
-      <li>Deploying ML models into full-stack applications</li>
-      <li>Performance optimization of ML-driven systems</li>
-    </ul>
+  <h2>🤝 Looking to Collaborate On</h2>
+  <ul>
+    <li>Open-source AI / ML projects</li>
+    <li>Full-stack applications integrating ML models</li>
+    <li>Real-time systems or automation tools using Python</li>
+  </ul>
 
-    <h2>🌱 Currently Learning</h2>
-    <ul>
-      <li>Advanced deep learning optimization techniques</li>
-      <li>Scalable backend architectures for AI-powered applications</li>
-      <li>Better integration of ML models with web platforms</li>
-    </ul>
+  <hr>
 
-    <h2>💬 Ask Me About</h2>
-    <p>
-      Deep Learning (PyTorch / TensorFlow), Full Stack Development (React, Node.js, Express),
-      WebRTC real-time systems, or building AI assistants in Python.
-    </p>
+  <h2>🙋 Looking for Help With</h2>
+  <ul>
+    <li>Improving deep learning model generalization</li>
+    <li>Deploying ML models into full-stack applications</li>
+    <li>Performance optimization of ML-driven systems</li>
+  </ul>
 
-    <div class="fun-fact">
-      ⚡ Fun fact: I can debug a neural network with 94% training accuracy — 
-      but still spend hours figuring out why CSS won’t center a div.
-    </div>
+  <hr>
 
-  </div>
+  <h2>🌱 Currently Learning</h2>
+  <ul>
+    <li>Advanced deep learning optimization techniques</li>
+    <li>Scalable backend architectures for AI-powered applications</li>
+    <li>Better integration of ML models with web platforms</li>
+  </ul>
 
-</body>
-</html>
+  <hr>
+
+  <h2>💬 Ask Me About</h2>
+  <p>
+    Deep Learning (PyTorch / TensorFlow), Full Stack Development
+    (React, Node.js, Express), WebRTC real-time systems,
+    or building AI assistants in Python.
+  </p>
+
+  <hr>
+
+  <h2>⚡ Fun Fact</h2>
+  <p>
+    I can debug a neural network with <b>94% training accuracy</b> —
+    but still spend hours figuring out why CSS won’t center a div.
+  </p>
 
 
 
