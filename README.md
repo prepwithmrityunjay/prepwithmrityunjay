@@ -1,66 +1,199 @@
-# 💫 About Me:
-👋 Hi, I'm **Mrityunjay**!<br>
-I design and build **end-to-end intelligent systems**, combining **Full Stack Development** with **Artificial Intelligence & Machine Learning**. I enjoy converting complex data into scalable solutions and delivering them through intuitive, high-performance user experiences.<br>
-🔭 I’m currently working on: An AI-powered application using **LLMs, deep learning models, and cloud-native architectures** to solve real-world user problems.<br>
-🤝 I’m looking to collaborate on: **Open-source MLOps platforms**, **LLM-based systems**, and **Generative AI integrations** for modern web applications.<br>
-🙋 I’m looking for help with: **Optimizing ML models**, scaling inference pipelines, and deploying AI microservices efficiently on the cloud.<br>
-🌱 I’m currently learning: **LLM fine-tuning**, **Vector Databases**, and production-ready AI system design.<br>
-💬 Ask me about: React / Next.js, FastAPI, PyTorch, scalable APIs, or why improving model accuracy feels easier than improving productivity.<br>
-⚡ Fun fact: Half my time goes into debugging CSS, and the other half into convincing people that AI is here to assist—not replace—humans… yet.<br>
+<h1 align="center">Hi 👋, I'm Karann Mishra</h1>
+
+<h3 align="center">
+AI / ML Researcher &nbsp;•&nbsp; Python Developer &nbsp;•&nbsp; Data Systems Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeSage4D&label=Profile%20Views&color=1f6feb&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/CodeSage4D?label=Followers&style=flat-square&color=1f6feb" />
+  <img src="https://img.shields.io/badge/Open--Source-Enthusiast-success?style=flat-square" />
+</p>
+
+<p align="center">
+<strong>Turning data into insight and models into meaningful systems.</strong>
+</p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrityunjaydwivedi09)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@MrityunjayDwivedi-i9s)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prepwithmrityunjay@gmail.com)
+## 👨‍💻 About Me
+
+I’m **Karann Mishra**, a Computer Science graduate deeply interested in  
+**Machine Learning, Data Analysis, and Python-based AI systems**.
+
+I enjoy working on problems where:
+- data is unstructured or imperfect  
+- logic matters as much as learning  
+- solutions must be practical, not just theoretical  
+
+My approach is simple:  
+**understand the problem → respect the data → build clean, reliable solutions**.
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+## 🧠 My Engineering & Research Mindset
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+- Start with **problem clarity**, not model complexity  
+- Treat **data quality** as the backbone of AI  
+- Prefer **interpretable baselines** before advanced models  
+- Analyze failure cases, not just accuracy scores  
+- Write code that is readable, testable, and reusable  
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+This mindset helps me build systems that perform well **outside notebooks too**.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prepwithmrityunjay&theme=default&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=prepwithmrityunjay&theme=default&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prepwithmrityunjay&layout=compact&theme=default&hide_border=false)
+## 🎯 Current Focus Areas
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prepwithmrityunjay&theme=radical&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prepwithmrityunjay&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- Applied Machine Learning & model fine-tuning  
+- Feature engineering & data preprocessing  
+- Model evaluation and performance analysis  
+- End-to-end ML workflows (data → model → insights)  
+- Automation-friendly and reproducible pipelines  
+- Learning through open-source collaboration  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prepwithmrityunjay&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Optimized for Full Stack + AI/ML Engineer -->
+## 🛠️ Technical Stack
+
+### 🧩 Core Languages & Libraries
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+
+### 🤖 Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
+
+### 📊 Visualization & Analysis
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi)
+
+---
+
+## 📂 AI / ML Project Highlights
+
+> *(Each project follows clean structure, documentation & evaluation)*
+
+- 📊 **Data Analysis & ML Pipelines**  
+  Data cleaning → feature engineering → model training → evaluation
+
+- 🤖 **Machine Learning Models**  
+  Supervised learning projects with focus on interpretability & validation
+
+- 🧠 **Deep Learning Experiments**  
+  Neural networks using TensorFlow & PyTorch with performance comparison
+
+- ⚙️ **Automation & Utilities**  
+  Python scripts to streamline data workflows and experiments
+
+---
+
+## 📜 Certifications & Learning
+
+- Python for Data Science  
+- Machine Learning Foundations  
+- Data Analysis & Visualization  
+- Continuous self-learning through projects & research  
+
+*(Certificates & reports available via portfolio or on request)*
+
+---
+
+## 📈 GitHub Activity (Auto-Updated)
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/1f6feb/CodeSage4D"
+    alt="GitHub Contribution Chart"
+  />
+</p>
+
+
+
+---
+
+## 🧠 Technology Usage (Auto % Bar Graph)
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,sklearn,jupyter,git,github,vscode"
+  />
+</p>
+
+<p align="center">
+  <sub>Language distribution is reflected via repository activity and commits.</sub>
+</p>
+
+
+---
+
+## 📊 Development & Commit Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeSage4D&theme=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeSage4D&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeSage4D&theme=github" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements & Trophies
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=flat" />
+  <img src="https://img.shields.io/badge/Python-Focused-blue?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-8A2BE2?style=flat" />
+  <img src="https://img.shields.io/badge/Continuous-Learner-orange?style=flat" />
+</p>
+
+<p align="center">
+  <sub>
+    Contributions across AI, ML, and data-centric Python projects with focus on clarity and reliability.
+  </sub>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/itsgkaranmishra4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/CodeSage4D" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-000?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:karannmishra136@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  🌐 <a href="https://itsgkaranmishra.web.app"><strong>Portfolio</strong></a>
+  &nbsp;•&nbsp;
+  📄 <a href="https://drive.google.com/file/d/1fKE6ixBrHgSPX3hDZVEgxJC3i_UWT7ja/view"><strong>Resume</strong></a>
+</p>
+
+<p align="center">
+  <sub>
+    Open to collaboration, research discussions, and meaningful AI/ML projects.
+  </sub>
+</p>
+
+---
+
+<p align="center">
+<em>“Strong AI systems are built on clean data and clear thinking.”</em>
+</p>
