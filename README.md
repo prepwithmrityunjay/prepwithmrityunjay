@@ -1,7 +1,7 @@
 
   <center>
     <image
-      href="profile.jpg"
+      href="IMG_20251214_215157.jpg"
       width="220"
       height="220"
       clip-path="url(#circleClip)"
