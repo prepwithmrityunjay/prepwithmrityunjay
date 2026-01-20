@@ -1,5 +1,152 @@
-# 💫 About Me:
-👋 Hi, I'm Mrityunjay!<br>I’m a Full Stack Engineer and AI/ML developer who enjoys building end-to-end intelligent systems—from deep learning models to scalable, real-time web applications.<br><br>I like working at the intersection of machine learning, backend systems, and user-facing applications, turning complex problems into practical, reliable solutions.<br><br>🔭 I’m currently working on:<br>A CNN-based Skin Cancer (Melanoma) Classification system using PyTorch, focused on improving accuracy through data augmentation, hyperparameter tuning, and model evaluation on the ISIC dataset.<br><br>🤝 I’m looking to collaborate on:<br><br>Open-source AI/ML projects<br><br>Full-stack applications integrating ML models<br><br>Real-time systems or automation tools using Python<br><br>🙋 I’m looking for help with:<br><br>Improving deep learning model generalization<br><br>Best practices for deploying ML models into full-stack applications<br><br>Performance optimization of ML-driven systems<br><br>🌱 I’m currently learning:<br><br>Advanced deep learning optimization techniques<br><br>Scalable backend architectures for AI-powered applications<br><br>Better integration of ML models with web platforms<br><br>💬 Ask me about:<br>Deep Learning (PyTorch/TensorFlow),<br>Full Stack Development (React, Node.js, Express),<br>WebRTC real-time systems,<br>or building AI assistants in Python.<br><br>⚡ Fun fact:<br>I can debug a neural network with 94% training accuracy—but still spend hours figuring out why CSS won’t center a div.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mrityunjay | About Me</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #0d1117;
+      color: #c9d1d9;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 30px;
+      background: #161b22;
+      border-radius: 16px;
+      box-shadow: 0 0 40px rgba(0,0,0,0.4);
+    }
+
+    .profile {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .profile img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #58a6ff;
+      margin-bottom: 15px;
+    }
+
+    h1 {
+      margin: 10px 0;
+      font-size: 2rem;
+      color: #f0f6fc;
+    }
+
+    h2 {
+      margin-top: 40px;
+      color: #58a6ff;
+      font-size: 1.4rem;
+    }
+
+    p {
+      line-height: 1.7;
+      font-size: 1.05rem;
+    }
+
+    ul {
+      margin-top: 10px;
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .highlight {
+      color: #f0f6fc;
+      font-weight: 600;
+    }
+
+    .fun-fact {
+      margin-top: 25px;
+      padding: 15px;
+      background: #0d1117;
+      border-left: 4px solid #58a6ff;
+      border-radius: 8px;
+      font-style: italic;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <div class="profile">
+      <!-- Replace profile.jpg with your image -->
+      <img src="profile.jpg" alt="Mrityunjay Profile Photo">
+      <h1>👋 Hi, I'm Mrityunjay</h1>
+      <p class="highlight">Full Stack Engineer • AI / ML Developer</p>
+    </div>
+
+    <h2>💫 About Me</h2>
+    <p>
+      I’m a <span class="highlight">Full Stack Engineer and AI/ML developer</span> who enjoys building
+      <span class="highlight">end-to-end intelligent systems</span> — from deep learning models
+      to scalable, real-time web applications.
+    </p>
+
+    <p>
+      I like working at the intersection of <span class="highlight">machine learning</span>,
+      <span class="highlight">backend systems</span>, and
+      <span class="highlight">user-facing applications</span>,
+      turning complex problems into practical, reliable solutions.
+    </p>
+
+    <h2>🔭 Currently Working On</h2>
+    <p>
+      A <span class="highlight">CNN-based Skin Cancer (Melanoma) Classification system</span>
+      using <span class="highlight">PyTorch</span>, focused on improving accuracy through
+      data augmentation, hyperparameter tuning, and model evaluation on the ISIC dataset.
+    </p>
+
+    <h2>🤝 Looking to Collaborate On</h2>
+    <ul>
+      <li>Open-source AI / ML projects</li>
+      <li>Full-stack applications integrating ML models</li>
+      <li>Real-time systems or automation tools using Python</li>
+    </ul>
+
+    <h2>🙋 Looking for Help With</h2>
+    <ul>
+      <li>Improving deep learning model generalization</li>
+      <li>Deploying ML models into full-stack applications</li>
+      <li>Performance optimization of ML-driven systems</li>
+    </ul>
+
+    <h2>🌱 Currently Learning</h2>
+    <ul>
+      <li>Advanced deep learning optimization techniques</li>
+      <li>Scalable backend architectures for AI-powered applications</li>
+      <li>Better integration of ML models with web platforms</li>
+    </ul>
+
+    <h2>💬 Ask Me About</h2>
+    <p>
+      Deep Learning (PyTorch / TensorFlow), Full Stack Development (React, Node.js, Express),
+      WebRTC real-time systems, or building AI assistants in Python.
+    </p>
+
+    <div class="fun-fact">
+      ⚡ Fun fact: I can debug a neural network with 94% training accuracy — 
+      but still spend hours figuring out why CSS won’t center a div.
+    </div>
+
+  </div>
+
+</body>
+</html>
+
 
 
 ## 🌐 Socials:
