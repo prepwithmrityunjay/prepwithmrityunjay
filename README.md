@@ -1,11 +1,5 @@
 
   <center>
-    <svg width="220" height="220" viewBox="0 0 220 220">
-    <defs>
-      <clipPath id="circleClip">
-        <circle cx="110" cy="110" r="100" />
-      </clipPath>
-    </defs>
     <image
       href="profile.jpg"
       width="220"
